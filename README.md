@@ -122,8 +122,10 @@ Guardar artefactos en `reports/powerbi/` (.pbix) y exportar imágenes/PDF para e
 - Usar entorno virtual y pinnear versiones en `requirements.txt`.
 
 
-## Contacto
+## 🤝 Contacto
 
-Proyecto por:  Jesús David Fontalvo Mendoza
+Proyecto por: **Jesús David Fontalvo Mendoza**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil_Profesional-blue?style=flat&logo=linkedin)](www.linkedin.com/in/jesús-fontalvo-mendoza-4550072ab)
 
 
